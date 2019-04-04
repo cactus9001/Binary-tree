@@ -1,0 +1,7 @@
+D:\sem2\cloud\week3 binary tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\sem2\cloud\week3 binary tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\sem2\cloud\week3 binary tree\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\sem2\cloud\week3 binary tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+D:\sem2\cloud\week3 binary tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\sem2\cloud\week3 binary tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\sem2\cloud\week3 binary tree\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
