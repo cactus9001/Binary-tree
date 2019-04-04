@@ -94,6 +94,7 @@ namespace BinaryTree
             //print tree
             myTree.Display();
             Console.WriteLine("End of new tree");
+            Console.WriteLine("This is a post commit change");
         }
     }
 }
